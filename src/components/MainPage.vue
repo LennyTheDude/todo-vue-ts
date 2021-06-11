@@ -19,18 +19,22 @@ export default class MainPage extends Vue {
   
   list = [
     {
+      id: 0,
       text: "Play Africa by Toto",
       isDone: false
     },
     {
+      id: 1,
       text: "Run to the store",
       isDone: false
     },
     {
+      id: 2,
       text: "Get some Gin & Juice",
       isDone: true
     },
     {
+      id: 3,
       text: "Join the lobby",
       isDone: false
     },
